@@ -1,0 +1,4 @@
+note:
+Test pertama yang API: untuk script dan scene ada di dalam folder bernama alvin didalam unity
+
+Test optional saya hanya mengerjakan untuk bagian pertama saja
